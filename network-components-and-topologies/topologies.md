@@ -156,5 +156,5 @@ A combination of two or more topologies, e.g., star + bus.
    - Data sniffing in bus and ring  
    - Switch hardening and VLANs in star  
    - Encryption and ACLs in mesh and hybrid  
-4. **Logical vs physical topology**: always consider both for design and security.  
+4. **Logical vs physical topology**: always consider both for design and security.
 
