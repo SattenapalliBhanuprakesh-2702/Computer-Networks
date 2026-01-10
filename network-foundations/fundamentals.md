@@ -1,6 +1,7 @@
 00-network-foundations/
 
-1. what-is-a-network.md
+1. what-is-a-network
+
    Description:
    - Learning Objective: Understand the definition of a computer network and why devices communicate.
    - Content:
@@ -10,7 +11,8 @@
      • Example scenarios: home network, office network, internet backbone.
      • Cybersecurity context: understanding networks helps identify potential attack surfaces.
 
-2. why-networks-exist.md
+2. why-networks-exist
+
    Description:
    - Learning Objective: Learn the purpose, advantages, and real-world value of networks.
    - Content:
@@ -21,7 +23,8 @@
      • Security relevance: centralized resources create critical points that need protection.
      • Real-world examples: corporate LANs, school networks, ISP networks.
 
-3. types-of-networks-lan-wan-man.md
+3. types-of-networks-lan-wan-man
+
    Description:
    - Learning Objective: Understand the classification of networks based on geographic scope and scale.
    - Content:
@@ -33,7 +36,8 @@
      • Diagrams showing device interconnections for each type.
      • Security relevance: different network types have different attack surfaces.
 
-4. internet-vs-intranet.md
+4. internet-vs-intranet
+
    Description:
    - Learning Objective: Differentiate between public and private networks and their use cases.
    - Content:
@@ -43,7 +47,8 @@
      • Typical use cases: online banking, corporate portals, internal communications.
      • Security considerations: encryption, firewalls, access policies.
 
-5. public-vs-private-networks.md
+5. public-vs-private-networks
+
    Description:
    - Learning Objective: Learn the distinction between public and private network accessibility.
    - Content:
@@ -53,7 +58,8 @@
      • Benefits of private networks: isolation, control, better security.
      • Best practices when connecting to public networks: VPNs, encryption, avoiding sensitive transactions.
 
-6. how-the-internet-works.md
+6. how-the-internet-works
+
    Description:
    - Learning Objective: Understand the high-level mechanics of the Internet.
    - Content:
