@@ -1,4 +1,4 @@
-# OSI Model — Professional Deep Dive
+# OSI Model
 
 The OSI (Open Systems Interconnection) model is a **7-layer architectural framework** that defines how data moves from one computer to another across any network.  
 It is not a protocol — it is a **design standard** that allows vendors, software, and security systems to interoperate globally.

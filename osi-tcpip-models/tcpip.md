@@ -1,4 +1,4 @@
-# TCP/IP Model – Professional Layer-by-Layer Explanation
+# TCP/IP Model
 
 The TCP/IP model is the **foundation of the Internet**.  
 It defines how data is created, transmitted, routed, and received across networks.
