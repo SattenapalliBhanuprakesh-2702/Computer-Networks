@@ -27,7 +27,7 @@ It can be a desktop, laptop, smartphone, or any device directly controlled by th
 - **Patching & updates:** Regular OS and application updates reduce risks.
 - **Endpoint security:** Antivirus, EDR (Endpoint Detection & Response), and device hardening.
 
-![Computer](../images/computer.webp)
+![Computer](../images/components/computer.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Servers are usually high-performance machines optimized for continuous operation
 - **Segmentation:** Place servers in separate VLANs or DMZ to reduce attack surface.
 - **Backups:** Regular backups prevent data loss during attacks.
 
-![Server](../images/servers.webp)
+![Server](../images/components/servers.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Switches are Layer 2 devices (Data Link Layer) that forward frames between devic
 - Distribution switches (aggregating multiple access switches)
 - Managed vs unmanaged switches
 
-![Switch](../images/switch.webp)
+![Switch](../images/components/switch.webp)
 
 ---
 
@@ -99,7 +99,7 @@ Routers are Layer 3 devices (Network Layer) that forward IP packets between netw
 - Secure routing protocols (OSPF, BGP)
 - Monitor for IP spoofing or unauthorized access
 
-![Router](../images/router.webp)
+![Router](../images/components/router.webp)
 ---
 
 ## **5. Firewalls**
@@ -117,7 +117,7 @@ A firewall is a network security device that monitors and controls incoming and 
 - Combine with IDS/IPS for detection and prevention
 - Monitor logs for anomalies
 
-![Firewall](../images/firewall.webp)
+![Firewall](../images/components/firewall.webp)
 ---
 
 ## **6. Modems**
@@ -134,7 +134,7 @@ A modem (modulator-demodulator) converts digital signals from a computer into an
 - Disable remote management if not needed
 - Monitor logs for unauthorized access
 
-![Modem](../images/modem.webp)
+![Modem](../images/components/modem.webp)
 ---
 
 ## **7. Wireless Access Points (WAPs)**
@@ -152,7 +152,7 @@ WAPs provide Wi-Fi connectivity to devices within a network.
 - Disable unused SSIDs
 - Monitor for rogue APs (Evil Twin attacks)
 
-![Wireless access point](../images/wireless-access-point.webp)
+![Wireless access point](../images/components/wireless-access-point.webp)
 ---
 
 ## **8. Network Interface Cards (NICs)**
@@ -168,7 +168,7 @@ A NIC is hardware that allows a device to connect to a network.
 - MAC address filtering can restrict access
 - Ensure NIC drivers are updated to prevent exploits
 
-![NIC](../images/NIC.webp)
+![NIC](../images/components/NIC.webp)
 ---
 
 ## **9. Summary Table (Quick Reference)**
