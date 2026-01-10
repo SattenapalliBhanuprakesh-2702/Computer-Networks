@@ -171,6 +171,85 @@ A NIC is hardware that allows a device to connect to a network.
 ![NIC](../images/components/NIC.webp)
 ---
 
+
+## **9. Hubs**
+
+### Definition
+A hub is a **basic Layer 1 device** that connects multiple devices in a network.  
+It simply **broadcasts incoming data to all connected devices** without filtering.
+
+### Role in Networks
+- Connect multiple end devices in a small LAN
+- Acts as a simple repeater to extend network signals
+
+### Advantages
+- Simple and inexpensive
+- Easy to install in small networks
+
+### Disadvantages
+- No intelligence → cannot filter traffic
+- All traffic is broadcast → higher collisions
+- Single point of congestion in larger networks
+
+### Cybersecurity Considerations
+- Traffic can be easily intercepted by any connected device
+- Rarely used in modern networks due to security and efficiency concerns
+
+![Hub](../images/components/hub.webp)
+---
+
+## **10. Cables**
+
+### Definition
+Cables are the **physical medium** that connects network devices and allows data transmission.
+
+### Types
+- **Twisted Pair (Ethernet):** Cat5e, Cat6 – widely used in LANs
+- **Coaxial:** Older technology, mostly legacy systems
+- **Fiber Optic:** High-speed, long-distance, and highly secure transmission
+
+### Role in Networks
+- Transmit electrical or light signals between devices
+- Determine network speed and reliability
+
+### Advantages
+- Twisted pair: cost-effective, easy to install
+- Fiber optic: fast, immune to electromagnetic interference, long-distance coverage
+
+### Disadvantages
+- Physical damage can disrupt network
+- Fiber requires specialized handling and connectors
+
+### Cybersecurity Considerations
+- Physical security is critical (tapping cables can leak data)
+- Fiber is more secure against eavesdropping than copper
+- Ensure proper labeling and management in patch panels
+
+![Cables](../images/components/cables.webp)
+---
+
+## **11. Connectors**
+
+### Definition
+Connectors are interfaces used to terminate cables and link them to devices.
+
+### Types
+- **RJ-45:** Standard for Ethernet connections
+- **LC/SC:** Common for fiber optic connections
+- **RJ-11:** Telephone lines
+
+### Role in Networks
+- Provide a reliable physical connection between cables and devices
+- Enable easy installation, troubleshooting, and reconfiguration
+
+### Cybersecurity Considerations
+- Properly secure patch panels and racks
+- Avoid loose or exposed connectors that could be tampered with
+- Maintain consistent labeling to prevent accidental network misconfigurations
+
+![Connectors](../images/components/connectors.webp)
+---
+
 ## **9. Summary Table (Quick Reference)**
 
 | Device                   | Layer      | Role                                     | Security Focus                                 |
