@@ -68,6 +68,7 @@ Switches forward frames using MAC addresses.
 
 Each time a packet moves to a new network, it is placed inside a **new frame** with new MAC addresses.
 
+![Frame](../images/data-flow/frame.webp)
 ---
 
 # 5. Packet Structure
@@ -94,6 +95,7 @@ Contains integrity checks
 Attackers target payloads.  
 Firewalls inspect headers.
 
+![Packet Strucutre](../images/data-flow/packet.webp)
 ---
 
 # 6. Encapsulation – Wrapping the Data
@@ -126,6 +128,7 @@ At the receiving device:
 
 Security devices analyze traffic during this unwrapping process.
 
+![Encapsulation-Decapsulation](../images/data-flow/encapsulation-decapsulation.webp)
 ---
 
 # 8. Packet Flow Across Networks
@@ -144,6 +147,7 @@ At every hop:
 
 This allows packets to cross the entire world.
 
+![Packet-Flow](../images/data-flow/packet-flow.webp)
 ---
 
 # 9. Cybersecurity View
