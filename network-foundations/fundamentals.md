@@ -21,6 +21,7 @@
    Compares and contrasts the Internet and intranets. Explains the Internet as a public, global network accessible by anyone, using public IPs and often managed by ISPs. Intranets are private networks restricted to organizations, using private IPs, authentication mechanisms, and secure protocols. Covers access control, data privacy, and common use cases like corporate employee portals, internal applications, and online banking systems. Explains why understanding the distinction is critical for cybersecurity, such as securing private networks while safely interacting with public networks.
 
 5. public-vs-private-networks
+
    Description:
    Details the differences between public and private networks. Public networks are open and accessible to anyone, often less secure (e.g., cafes, airports, or shared Wi-Fi). Private networks are restricted, managed by an organization or individual, and provide a controlled environment (e.g., home LAN, corporate networks). Explains IP addressing differences (public vs private, RFC1918 standards), network isolation, and the importance of security controls in private networks. Provides practical security tips for users connecting to public networks, such as using VPNs, encryption, and avoiding sensitive transactions on insecure connections.
 
